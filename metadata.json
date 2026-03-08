@@ -1,0 +1,5 @@
+{
+  "name": "RetentionAI",
+  "description": "AI-powered video retention analysis and engagement prediction tool.",
+  "requestFramePermissions": ["notifications"]
+}
